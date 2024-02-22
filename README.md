@@ -28,6 +28,7 @@ Este generador de bromas online ha sido creado por **[Cristina Correa](https://w
 - HTML
 - CSS
 - JavaScript
+- [API Open Source](https://official-joke-api.appspot.com/jokes/random)
 
 ## 🔎💡 Información
 > [!IMPORTANT]
