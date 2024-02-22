@@ -16,13 +16,11 @@ Este generador de bromas online ha sido creado por **[Cristina Correa](https://w
 #### Vista del generador de bromas
 ![Vista previa del generador de bromas](https://github.com/CrisCorreaS/random-joke-generator/blob/main/img/visualizaci%C3%B3n/cronometro-vista.png)
 
-#### Vista de las funcionalidades del generador de bromas
-![Vista previa del generador de bromas](https://github.com/CrisCorreaS/random-joke-generator/blob/main/video/random-joke-generator-features.gif)
 
 ## 🌱 Características
 
-- **Interfaz:** Diseño sencillo, monocromático y adaptable a cualquier dispositivo.
-- **Funciones básicas:** Hace una petición a una API de bromas de programación y las pinta en html.
+- **Interfaz**: Diseño sencillo y adaptable, con una estética monocromática que garantiza una experiencia visual uniforme en cualquier dispositivo.
+- **Funciones básicas**: Realiza peticiones a una API de bromas de programación para luego presentarlas de manera dinámica en HTML, ofreciendo así una experiencia entretenida y ligera para el usuario.
  
 ## 🛠️ Tecnologías Utilizadas
 
