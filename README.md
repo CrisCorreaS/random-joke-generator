@@ -36,6 +36,33 @@ Este generador de bromas online ha sido creado por **[Cristina Correa](https://w
 - JavaScript
 - [API Open Source](https://official-joke-api.appspot.com/jokes/random)
 
+## 🤖 API
+- Al acceder a la [URL de la API](https://official-joke-api.appspot.com/jokes/random), se solicita un chiste aleatorio del tipo "general". La respuesta es un objeto JSON que contiene tres campos principales:
+ ```
+ {"type":"programming","setup":"What's the object-oriented way to become wealthy?","punchline":"Inheritance","id":16}
+ ```
+- Una posible alternativa para generar bromas aleatorias de programación es la [JokeAPI](https://v2.jokeapi.dev/joke/Programming?lang=es). Esta devuelve un objeto JSON con varios campos entre los que se encuentra la propia broma:
+```
+{
+    "error": false,
+    "category": "Programming",
+    "type": "single",
+    "joke": "Sólo hay 10 tipos de personas en este mundo, las que entienden binario y las que no.",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+    },
+    "safe": true,
+    "id": 5,
+    "lang": "es"
+}
+```
+
+
 ## 🔎💡 Información
 > [!IMPORTANT]
 > - Este es un proyecto para principiantes. No se requieren conocimientos avanzados de HTML, CSS o JavaScript, pero sí saber cómo hacer conexiones a apis con el objeto XMLHttpRequest.
