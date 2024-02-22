@@ -68,4 +68,4 @@ Este generador de bromas online ha sido creado por **[Cristina Correa](https://w
 
 ## 🎯 Propósito del Proyecto
 
-Este proyecto tiene como objetivo principal el aprendizaje de tecnologías para mejorar en el plano del desarrollo 
+Este proyecto forma parte de una tarea de la asignatura de "Desarrollo Web en Entorno Cliente" y tiene como objetivo principal el aprendizaje de tecnologías para mejorar en el plano del desarrollo.
