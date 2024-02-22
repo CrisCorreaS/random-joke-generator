@@ -5,7 +5,7 @@
 <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <br/><br/>
-[![Imagen del generador de bromas](https://github.com/CrisCorreaS/random-jokes-generator/blob/main/img/visualizaci%C3%B3n/cronometro-vista.png)](https://criscorreas.github.io/random-jokes-generator/)
+![Imagen del generador de bromas](https://github.com/CrisCorreaS/random-jokes-generator/blob/main/img/visualizaci%C3%B3n/cronometro-vista.png)
 
 Este generador de bromas online ha sido creado por **[Cristina Correa](https://www.linkedin.com/in/cristina-correa-segade/)**
 
@@ -14,7 +14,7 @@ Este generador de bromas online ha sido creado por **[Cristina Correa](https://w
 ### ➡️ **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/random-jokes-generator/)**
 
 #### Vista del generador de bromas
-![Vista previa del generador de bromas](https://github.com/CrisCorreaS/random-jokes-generator/blob/main/img/visualizaci%C3%B3n/cronometro-vista.png)
+![Vista previa del generador de bromas](https://github.com/CrisCorreaS/random-jokes-generator/blob/main/img/visualizaci%C3%B3n/generador-vista.png)
 
 
 ## 🌱 Características
