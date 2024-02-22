@@ -21,6 +21,7 @@ Este generador de bromas online ha sido creado por **[Cristina Correa](https://w
 
 - **Interfaz**: Diseño sencillo y adaptable, con una estética monocromática que garantiza una experiencia visual uniforme en cualquier dispositivo.
 - **Funciones básicas**: Realiza peticiones a una API de bromas de programación para luego presentarlas de manera dinámica en HTML, ofreciendo así una experiencia entretenida y ligera para el usuario.
+- **Conexión a una API Open Source**: Conexión con el objeto XMLHttpRequest a una [API Open Source](https://official-joke-api.appspot.com/) que devuelve json.
  
 ## 🛠️ Tecnologías Utilizadas
 
