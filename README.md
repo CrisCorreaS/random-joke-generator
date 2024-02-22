@@ -1,29 +1,29 @@
-# ⏱ Random Joke Generator
+# 🥳 Random Joke Generator
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet)
 <img align="right" alt="License MIT" src="https://img.shields.io/badge/LICENSE-MIT-green" /> <br/><br/>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <br/><br/>
-[![Imagen del cronómetro](https://github.com/CrisCorreaS/stopwatch/blob/main/img/visualizaci%C3%B3n/cronometro-vista.png)](https://criscorreas.github.io/stopwatch/)
+[![Imagen del generador de bromas](https://github.com/CrisCorreaS/random-joke-generator/blob/main/img/visualizaci%C3%B3n/cronometro-vista.png)](https://criscorreas.github.io/random-joke-generator/)
 
-Este cronómetro online ha sido creado por **[Cristina Correa](https://www.linkedin.com/in/cristina-correa-segade/)**
+Este generador de bromas online ha sido creado por **[Cristina Correa](https://www.linkedin.com/in/cristina-correa-segade/)**
 
 ## 👀 Vista Previa
 
-### ➡️ **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/stopwatch/)**
+### ➡️ **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/random-joke-generator/)**
 
-#### Vista del cronómetro
-![Vista previa del cronómetro](https://github.com/CrisCorreaS/stopwatch/blob/main/img/visualizaci%C3%B3n/cronometro-vista.png)
+#### Vista del generador de bromas
+![Vista previa del generador de bromas](https://github.com/CrisCorreaS/random-joke-generator/blob/main/img/visualizaci%C3%B3n/cronometro-vista.png)
 
-#### Vista de las funcionalidades del cronómetro
-![Vista previa del cronómetro](https://github.com/CrisCorreaS/stopwatch/blob/main/video/stopwatch-features.gif)
+#### Vista de las funcionalidades del generador de bromas
+![Vista previa del generador de bromas](https://github.com/CrisCorreaS/random-joke-generator/blob/main/video/random-joke-generator-features.gif)
 
 ## 🌱 Características
 
 - **Interfaz:** Diseño sencillo, monocromático y adaptable a cualquier dispositivo.
-- **Funciones básicas:** Muestra horas, minutos y segundos; permite iniciar, detener y reiniciar el cronómetro..
-
+- **Funciones básicas:** Hace una petición a una API de bromas de programación y las pinta en html.
+ 
 ## 🛠️ Tecnologías Utilizadas
 
 - HTML
@@ -32,35 +32,34 @@ Este cronómetro online ha sido creado por **[Cristina Correa](https://www.linke
 
 ## 🔎💡 Información
 > [!IMPORTANT]
-> - Este es un proyecto para principiantes. No se requieren conocimientos avanzados de HTML, CSS o JavaScript.
+> - Este es un proyecto para principiantes. No se requieren conocimientos avanzados de HTML, CSS o JavaScript, pero sí saber cómo hacer conexiones a apis con el objeto XMLHttpRequest.
 > - Está desarrollado utilizando JavaScript Vanilla, así que no se utiliza ningún framework. Sin embargo, si estás buscando un poco más de desafío, ¡siéntete libre de explorar la posibilidad de integrar un framework!
 > - **Nivel de dificultad del proyecto:** 🔴⭕⭕⭕⭕⭕⭕⭕⭕⭕ (1 sobre 10)
 
 > [!TIP]
 > A la hora de desarrollar el proyecto, te pueden venir bien los siguientes recursos:
-> - ["How to Create Stopwatch" de GeeksforGeeks](https://www.geeksforgeeks.org/how-to-create-stopwatch-using-html-css-and-javascript/)
+> - [API de Generación de Bromas de Programadores](https://official-joke-api.appspot.com/jokes/random)
 > - CSS
 >    - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
 > - JavaScript:
 >    - [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
 >    - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
->    - [JavaScript padStart() method MDN reference](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/padStart)
-> - Google Fonts:
->    - [How to use Google Fonts](https://developers.google.com/fonts/docs/css2?hl=es-419)
->    - [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
-
+>    - [XHR: XMLHttpRequest - Manz](https://lenguajejs.com/javascript/peticiones-http/xhr/)
+> - Font Awesome
+>    - [Font Awesome Get Started](https://fontawesome.com/docs/web/setup/get-started)
+>    - [Font Awesome Documentation](https://fontawesome.com/v5/docs/web/reference-icons/)
 
 ## 📓 Cómo Usar
 
 1. Descarga o clona este repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador web.
 
-¡Y eso es todo! Ahora cualquier persona puede usar un cronómetro desde un dispositivo.
+¡Y eso es todo! Ahora cualquier persona puede usar un generador de bromas desde un dispositivo.
 
 ## ✨ Contribuciones
 
-¡Las contribuciones son bienvenidas! Si deseas mejorar el cronómetro existente, como agregar más contenido o mejorar el diseño, no dudes en enviar tus pull requests. También puedes sugerir nuevas funcionalidades o brindar retroalimentación para hacer que este proyecto sea aún mejor.
+¡Las contribuciones son bienvenidas! Si deseas mejorar el generador de bromas existente, como agregar más contenido o mejorar el diseño, no dudes en enviar tus pull requests. También puedes sugerir nuevas funcionalidades o brindar retroalimentación para hacer que este proyecto sea aún mejor.
 
 ## 🎯 Propósito del Proyecto
 
-Este proyecto ha sido inspirado por ["How to Create Stopwatch" de GeeksforGeeks](https://www.geeksforgeeks.org/how-to-create-stopwatch-using-html-css-and-javascript/) y tiene como objetivo principal el aprendizaje de tecnologías para mejorar en el plano del desarrollo 
+Este proyecto ha sido inspirado por ["How to Create random-joke-generator" de GeeksforGeeks](https://www.geeksforgeeks.org/how-to-create-random-joke-generator-using-html-css-and-javascript/) y tiene como objetivo principal el aprendizaje de tecnologías para mejorar en el plano del desarrollo 
