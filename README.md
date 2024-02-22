@@ -60,4 +60,4 @@ Este generador de bromas online ha sido creado por **[Cristina Correa](https://w
 
 ## 🎯 Propósito del Proyecto
 
-Este proyecto ha sido inspirado por ["How to Create random-joke-generator" de GeeksforGeeks](https://www.geeksforgeeks.org/how-to-create-random-joke-generator-using-html-css-and-javascript/) y tiene como objetivo principal el aprendizaje de tecnologías para mejorar en el plano del desarrollo 
+Este proyecto tiene como objetivo principal el aprendizaje de tecnologías para mejorar en el plano del desarrollo 
