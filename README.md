@@ -37,7 +37,7 @@ Este generador de bromas online ha sido creado por **[Cristina Correa](https://w
 - [API Open Source](https://official-joke-api.appspot.com/jokes/random)
 
 ## 🤖 API
-- Al acceder a la [URL de la API](https://official-joke-api.appspot.com/jokes/random), se solicita un chiste aleatorio del tipo "general". La respuesta es un objeto JSON que contiene varios campos principales. Un ejemplo de la llamada a la API sería haciendo "https://official-joke-api.appspot.com/jokes/random" lo cual nos devuelve:
+- Al acceder a la [URL de la API](https://official-joke-api.appspot.com/jokes/random), se solicita un chiste aleatorio. La respuesta es un objeto JSON que contiene varios campos principales. Un ejemplo de la llamada a la API sería haciendo "https://official-joke-api.appspot.com/jokes/random" lo cual nos devuelve:
  ```
 {
     "type":"programming",
